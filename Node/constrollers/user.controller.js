@@ -1,5 +1,4 @@
 const userController = function () {
-    const meuController = {};
 
     const postUser = function(req, res){
         console.log(req.body)
