@@ -1,0 +1,9 @@
+[
+	{ nome: "José", idade: 22, celular: {marca: "Samsung", modelo: "S7", android: 7.0}},
+	{ nome: "Mateus", idade: 17, celular: {marca: "Lenovo", modelo: "VIBE K5", android: 5.0}},
+	{ nome: "Fátima", idade: 26, celular: {marca: "Motorola", modelo: "G4", android: 6.0}},
+	{ nome: "Pedro", idade: 15, celular: {marca: "Motorola", modelo: "G5", android: 6.0}},
+	{ nome: "Maria", idade: 23},
+	{ nome: "Ana", idade: 19, celular: {marca: "LG", modelo: "X", android: 5.0}},
+	{ nome: "Patrícia", idade: 22, celular: {marca: "Sony", modelo: "Xperia Z3", android: 6.0}}
+]

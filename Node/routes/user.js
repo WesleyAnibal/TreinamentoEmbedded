@@ -3,7 +3,7 @@ const express = require('express');
 
 const userController = require('../constrollers/user.controller.js')();
 
-var router = express.Router(); // organizando as minhas rotas.
+var router = express.Router(); //organizando as minhas rotas.
 
 router.get('/', userController.getUser)
 

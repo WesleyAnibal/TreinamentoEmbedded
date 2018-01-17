@@ -1,0 +1,7 @@
+[
+	{nome: "Civic", marca: "Honda", precos: [86.490, 89.990, 85.400]},
+	{nome: "HB20", marca: "Hyundai", precos: [46.560, 42.000, 43.270]},
+	{nome: "City", marca: "Honda", precos: [66.320, 67.000]},
+	{nome: "Uno", marca: "Fiat", precos: [39.990, 37.890, 35.660]},
+	{nome: "Cruze", marca: "Chevrolet", precos: [63.400, 65.580]}
+]
